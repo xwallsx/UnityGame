@@ -4,7 +4,13 @@
 /[Bb]uild/
 /[Bb]uilds/
 /Assets/AssetStoreTools*
+
+# Added ignores
 *Library
+*.vs
+*game1_Data
+*Packages
+
 # Visual Studio 2015 cache directory
 /.vs/
 
